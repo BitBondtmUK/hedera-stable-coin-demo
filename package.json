@@ -1,5 +1,5 @@
 {
-  "name": "hedera-stable-coin-demo2",
+  "name": "stabl",
   "version": "1.1.1",
   "description": "Deployment of HCS tokens",
   "main": "index.js",
