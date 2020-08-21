@@ -1,0 +1,19 @@
+{
+  "name": "hedera-stable-coin-demo2",
+  "version": "1.1.1",
+  "description": "Deployment of HCS tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitBondtmUK/hedera-stable-coin-demo.git"
+  },
+  "author": "Floren Cabrera F de Teresa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BitBondtmUK/hedera-stable-coin-demo/issues"
+  },
+  "homepage": "https://github.com/BitBondtmUK/hedera-stable-coin-demo#readme"
+}
